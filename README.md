@@ -1,5 +1,6 @@
-# Projeto
-Simulador de livraria, utilizando API Rest Async / Await e banco de dados MongoDB Atlas
+# API LIVRARIA
+Projeto de API REST para prática de JavaScript e funções sincronas e assincronas utilizando async / await.
+Livraria com sistema de cadastro e manejo de livros, autores e editoras.
 - Consulta por ID (GET) Livro, Editora, Autor
 - Altera (PUT) Livro, Editora, Autor
 - Cria (POST) Livro, Editora, Autor
