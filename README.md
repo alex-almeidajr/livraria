@@ -1,5 +1,5 @@
 # Projeto
-Livraria - API Rest Async / Await, utilizando banco de dados MongoDB Atlas
+Simulador de livraria, utilizando API Rest Async / Await e banco de dados MongoDB Atlas
 - Consulta por ID (GET) Livro, Editora, Autor
 - Altera (PUT) Livro, Editora, Autor
 - Cria (POST) Livro, Editora, Autor
